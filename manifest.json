@@ -11,10 +11,7 @@
     "figjam",
     "slides"
   ],
-  "ui": "ui.html",
+  "ui": "public/ui.html",  
   "networkAccess": {
-    "allowedDomains": [
-      "none"
-    ]
-  }
+"allowedDomains": ["https://my.spline.design"]  }
 }
